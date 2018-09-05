@@ -1,4 +1,7 @@
-﻿v1.3.12
+﻿v1.3.13 - INOFFICIAL BUILD
+- Fix for Universal Storage experiments
+
+v1.3.12
 - Update for KSP 1.4
 
 - Fix drag cubes for oversized science parts; recon and SIGINT
